@@ -9,22 +9,22 @@
 .hii {
     display: flex;
     gap: 25px;
-    width: 100vw;
+    width:98vw;
     height: 3vh;
     background-color: rgb(220, 137, 12);
     position: sticky;
 }
 
 .Goi {
-    font-size: 25px;
+    font-size: 15px;
 
 }
 
 .MOE {
-    font-size: 25px;
+    font-size: 15px;
 }
 .year{
-    font-size: 25px;
+    font-size: 15px;
   margin-left:25vw;
 }
 .logo{
@@ -52,21 +52,17 @@
     padding:50px;
     margin-left:6vw;
 }
-/*.box3{
-    margin-left:4vw;
-    margin-top:120px;
-}*/
  .list{
-    margin-left:85vw;
+    margin-left:80vw;
     height:20vh;
-    width:22vw;
+    width:20vw;
     margin-right:2vw;
     margin-top: -12vh;
  }
 .items{
     
     list-style-type: none;
-    font-size: 34px;
+    font-size: 15px;
     row-gap:30px;
     display:none;
     flex-direction: column;
@@ -78,52 +74,46 @@ a:-webkit-any-link {
     color: black;
     cursor: pointer;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 15px;
     font-family: sans-serif;
 }
 .icon1{
     margin-left:95vw;
     color:black;
-    font-size: 30px;
+    font-size: 20px;
     display: flex;
     margin-top: -22vh;
    
 }
-.box4{
-    margin-left:75vw;
-    height:100vh;
-    width:23vw;
-    background-color: blanchedalmond;
-}
 .icon2{
     margin-left:95vw;
     color:black;
-    font-size: 30px;
+    font-size: 20px;
     display: none;
     margin-top: -22vh;
 }
 a:-webkit-any-link:hover{
-    text-decoration: underline 10px rgb(241, 68, 97);
+    text-decoration: underline 2px rgb(241, 68, 97);
     transition: 0.3s;
-    font-size:40px ;
+    font-size:20px ;
 
 }
 #heading{
-    margin-left:2vw;
+    margin-left:1vw;
     margin-top: 25vh;
-    font-size:60px;
+    font-size:45px;
     font-weight:bold;
 }
 .icon3{
     margin-left:35vw;
     width:1vw;
-    font-size:30px;
+    font-size:20px;
     margin-top:5vh;
 }
 .msg{
-    width:50vw;
+    width:40vw;
     margin-top:8vh;
-    font-size:28px;
+    font-size:15px;
     color:red;
     display:none;
    
@@ -131,14 +121,14 @@ a:-webkit-any-link:hover{
 .ask{
     margin-left:5px;
     margin-top:5vh;
-    font-size:30px;
+    font-size:20px;
     font-weight:bold;
 }
 .logo2{
     margin-top:15vh;
     margin-left:-30vw;
-    width:70vw;
-    font-size:50px;
+    width:50vw;
+    font-size:30px;
     color:rgb(233, 124, 7)
 }
 .about span{
@@ -147,19 +137,20 @@ a:-webkit-any-link:hover{
     font-family: sans-serif;
 }
 .about{
-    width:100vw;
-    font-size: 30px;
-    margin-top:50px;
+    width:95vw;
+    font-size: 20px;
+    margin-top:20px;
     font-family: sans-serif;
+    text-align: justify;
 }
 .images{
     display:flex;
 }
 .image1{
-    height:400px;
-    width:650px;
+    height:300px;
+    width:450px;
     margin-top: 30px;
-    margin-left:70px;
+    margin-left:20px;
     background-image: url(image1.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -167,10 +158,10 @@ a:-webkit-any-link:hover{
     border-radius:15px;
 }
 .image2{
-    height:400px;
-    width:650px;
+    height:300px;
+    width:450px;
     margin-top: 30px;
-    margin-left:70px;
+    margin-left:30px;
     background-image: url(image3.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -178,10 +169,10 @@ a:-webkit-any-link:hover{
     border-radius:15px;
 }
 .image3{
-    height:400px;
-    width:650px;
+    height:300px;
+    width:450px;
     margin-top: 30px;
-    margin-left:70px;
+    margin-left:30px;
     background-image: url(image2.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -190,15 +181,15 @@ a:-webkit-any-link:hover{
 }
 #nsp{
     margin-top: 2vh;
-    font-size:60px;
+    font-size:45px;
     font-weight:bold;
-    margin-left:2vw;
+    margin-left:1vw;
 }
 .image4{
-    height:200px;
-    width:200px;
+    height:100px;
+    width:100px;
     margin-top: 20px;
-    margin-left:5vw;
+    margin-left:1vw;
     background-image: url(image4.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -207,9 +198,9 @@ a:-webkit-any-link:hover{
     border: 5px solid blanchedalmond;
 }
 .btn1{
-    margin-left:-40vw;
-    margin-top:20vh;
-    font-size:25px;
+    margin-left:-60vw;
+    margin-top:17vh;
+    font-size:20px;
     background-color:burlywood;
     border-color:  burlywood;
     border-radius:5px;
@@ -225,14 +216,12 @@ a:-webkit-any-link:hover{
     margin-left:5vw;
 }
 .title{
-    margin-left:5vw;
-    margin-top:3vh;
-    font-size: 40px;
+    margin-left:30vw;
+    margin-top:-2vh;
+    font-size: 22px;
     font-weight: bold;
     color:rgb(233, 124, 7);
-    width:1vw;
-    height:2vh;
-    
+    width:20vw;
 }
 .detail{
     display: flex;
@@ -242,24 +231,25 @@ a:-webkit-any-link:hover{
 
 }
 .detail1{
-    font-size: 30px;
+    font-size: 15px;
     margin-top: 8vh;
-    width:700px;
+    width:40vw;
    
 
 }
 .detail2{
-    font-size: 30px;
+    font-size: 15px;
     margin-top: 8vh;
-    width:700px;
+    width:40vw;
     margin-left:5vw;
 
 
 }
 .aboutffe{
-    width:50vw;
-    font-size: 30px;
-    margin-left:10vw;
+    margin-top:2vh;
+    width:70vw;
+    font-size: 20px;
+    margin-left:-45vw;
 }
 .btn1 a:-webkit-any-link:hover {
     color: black;
@@ -268,16 +258,11 @@ a:-webkit-any-link:hover{
     font-size: 25px;
     font-family: sans-serif;
 }
-.container{
-    width:100vw;
-    height:40vh;
-    margin-top: 20px;
-}
 .image5{
-    height:200px;
-    width:200px;
+    height:100px;
+    width:100px;
     margin-top:5vh;
-    margin-left:10vw;
+    margin-left:6vw;
     background-image: url(image5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -287,7 +272,7 @@ a:-webkit-any-link:hover{
 }
 hr{
     width:50vw;
-    border:2px solid black;
+    border:1px solid black;
    margin-left: 25vw;
    margin-top:2vh;
 }
@@ -295,31 +280,32 @@ hr{
     display:flex;
 }
 .nsp{
-    font-size:40px;
+    font-size:22px;
     color:rgb(251, 17, 169);
-    margin-top:7vh;
-    width:2vh;
-    margin-left:5vw;
+    margin-top:5vh;
+    margin-left:30vw;
     font-weight: bold;
+    width:30vw
 }
 .aboutnsp{
-    width:50vw;
-    font-size: 30px;
-    margin-left:10vw;
-    margin-top:8vh;
+    width:80vw;
+    font-size: 20px;
+    margin-left:-58vw;
+    margin-top:12vh;
+    text-align: justify;
 }
 .obj{
     display: flex;
 }
 .obj1{
-    font-size:35px;
-    margin-left:25vw;
+    font-size:20px;
+    margin-left:15vw;
     margin-top:5vh;
 }
 .btn2{
     margin-left:50vw;
     margin-top: -4vh;
-    font-size:25px;
+    font-size:20px;
     background-color:burlywood;
     border-color:  burlywood;
     border-radius:5px;
@@ -334,19 +320,20 @@ hr{
     font-family: sans-serif;
 }
 .obj2{
-    font-size:30px;
-    margin-left:5vw;
+    font-size:15px;
+    margin-left:3vw;
     margin-top:5vh;
 }
 .ssp{
     margin-top: 2vh;
-    font-size:60px;
+    font-size:45px;
     font-weight:bold;
-    margin-left:2vw;
+    margin-left:1vw;
 }
 .container{
+    margin-top:3vh;
     height:80vh;
-    width:100vw;
+    width:98vw;
     background-image: url(image7.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -486,13 +473,13 @@ hr{
 }
 .loan{
     margin-top: 2vh;
-    font-size:60px;
+    font-size:45px;
     font-weight:bold;
     margin-left:2vw;
 }
 .aboutloan{
     width:90vw;
-    font-size: 30px;
+    font-size: 20px;
    margin-left:2vw;
    margin-top: 5vh;
 }
@@ -517,7 +504,7 @@ hr{
     width:10vw;
     font-weight: bold;
     text-align: center;
-    font-size: 23px;
+    font-size: 12px;
 }
 .logo4{
     width:10vw;
@@ -533,7 +520,7 @@ hr{
         width:10vw;
         font-weight: bold;
         text-align: center;
-        font-size: 23px;
+        font-size: 12px;
     }
 .logo5{
         width:10vw;
@@ -549,7 +536,7 @@ hr{
         width:10vw;
         font-weight: bold;
         text-align: center;
-        font-size: 23px;
+        font-size: 12px;
     }
     .logo6{
         width:10vw;
@@ -565,7 +552,7 @@ hr{
         width:10vw;
         font-weight: bold;
         text-align: center;
-        font-size: 23px;
+        font-size: 12px;
     }
     .logo7{
         width:10vw;
@@ -581,7 +568,7 @@ hr{
         width:10vw;
         font-weight: bold;
         text-align: center;
-        font-size: 23px;
+        font-size: 12px;
     }
     .logo8{
         width:10vw;
@@ -597,7 +584,7 @@ hr{
         width:10vw;
         font-weight: bold;
         text-align: center;
-        font-size: 23px;
+        font-size: 12px;
     }
     #help{
         background-color:rgb(134, 130, 130);
@@ -607,23 +594,23 @@ hr{
     }
     .help{
         text-align:center;
-        font-size: 70px;
+        font-size: 45px;
         color: rgb(232, 225, 225);
         font-family: sans-serif;
     }
     .contact{
         margin-left:25vw;
-        font-size: 25px;
-        margin-top:5vh;
+        font-size: 20px;
+        margin-top:3vh;
     }
     .contact p{
-        font-size:45px;
+        font-size:30px;
         color:rgb(25, 60, 214);
         font-weight: 900;
     }
     .email{
             margin-left:35vw;
-            font-size: 25px;
+            font-size: 20px;
             margin-top:-12vh;
         }
     .email p{
@@ -632,7 +619,7 @@ hr{
     } 
     .line{
         border-left: 2px solid rgb(228, 219, 219);
-        height:150px;
+        height:100px;
         margin-left:25vw;
         margin-top:-6vh;
     }  
@@ -641,7 +628,7 @@ hr{
         height: 3vh;
         background-color: rgb(220, 137, 12);
         text-align:center;
-        font-size:30px;
+        font-size:20px;
         color:rgb(235, 239, 243);
 
     } 
